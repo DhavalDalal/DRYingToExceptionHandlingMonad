@@ -11,3 +11,5 @@ Overview of sample example to be refactored.
 * Introduce bind/flatMap (return a new monad)
 * Map the above in Monad terminology.
 * Refactor example to completion by introducing recoverWith, orElse and forEach 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MX7stPfSFKKcsa" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DhavalDalal/drying-tomonadsinjava8" title="DRYing to Monad in Java8" target="_blank">DRYing to Monad in Java8</a> </strong> from <strong><a href="//www.slideshare.net/DhavalDalal" target="_blank">Dhaval Dalal</a></strong> </div>
