@@ -12,4 +12,7 @@ Overview of sample example to be refactored.
 * Map the above in Monad terminology.
 * Refactor example to completion by introducing recoverWith, orElse and forEach 
 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=_ykDhFYRaQ8" target="_blank"><img src="http://img.youtube.com/vi/_ykDhFYRaQ8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/MX7stPfSFKKcsa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DhavalDalal/drying-tomonadsinjava8" title="DRYing to Monad in Java8" target="_blank">DRYing to Monad in Java8</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/DhavalDalal">Dhaval Dalal</a></strong> </div>
